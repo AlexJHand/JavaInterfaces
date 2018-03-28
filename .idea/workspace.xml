@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d74035a-5795-4ab9-8b81-86f6f0ce63ce" name="Default" comment="" />
+    <list default="true" id="2d74035a-5795-4ab9-8b81-86f6f0ce63ce" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/company/DeskPhone.java" afterPath="$PROJECT_DIR$/src/com/company/DeskPhone.java" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+            <state relative-caret-position="90">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -45,18 +48,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeskPhone.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DeskPhone.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/DeskPhone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="24" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+            <state relative-caret-position="90">
+              <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
               <folding>
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
-                <element signature="e#889#890#0" expanded="true" />
-                <element signature="e#921#922#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#395#396#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#967#968#0" expanded="true" />
+                <element signature="e#999#1000#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,6 +91,7 @@
         <option value="$PROJECT_DIR$/src/com/company/Gearbox.java" />
         <option value="$PROJECT_DIR$/src/com/company/ITelephone.java" />
         <option value="$PROJECT_DIR$/src/com/company/DeskPhone.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
   </component>
@@ -225,14 +231,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Gearbox.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -254,16 +252,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/DeskPhone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="24" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        <state relative-caret-position="90">
+          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
           <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#967#968#0" expanded="true" />
+            <element signature="e#999#1000#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
